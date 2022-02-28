@@ -310,6 +310,7 @@ button:hover {
   height: auto;
   width: 450px;
   max-width: 100%;
+  border-radius: 10px;
 }
 
 .about-txt {
